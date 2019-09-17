@@ -59,3 +59,6 @@ typings/
 
 # Come on, dolphin, come on...
 .directory
+
+# yOu ShOuLd cOmMiT ThIs FiLe
+package-lock.json
